@@ -1,0 +1,9 @@
+.login{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 10px 10px  gray;
+}
